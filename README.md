@@ -4,7 +4,7 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages:**
 <p>
@@ -26,13 +26,15 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
 
 ---
 
-### 📊 My Stats
+### My Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rinefer&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rinefer/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rinefer&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
