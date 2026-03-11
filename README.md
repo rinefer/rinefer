@@ -33,8 +33,6 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
 
 ---
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rinefer&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
