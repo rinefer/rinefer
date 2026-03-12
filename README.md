@@ -1,4 +1,3 @@
-# Hi there! I'm sxlipter!
 
 I am a Python Developer focused on **Automation**, **Bot Development**, and **Data Science**.
 
@@ -14,6 +13,15 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
+---
+
+### My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinefer&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+---
+
 **Connect with me:**
 <p>
   <a href="https://github.com/rinefer" target="_blank">
@@ -22,13 +30,6 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
   <a href="https://t.me/dagothh" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
----
-
-### My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinefer&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
 ---
