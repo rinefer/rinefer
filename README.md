@@ -34,6 +34,8 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinefer&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="left">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rinefer&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Views Counter" />
+  </a>
 </p>
