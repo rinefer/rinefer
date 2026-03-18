@@ -15,13 +15,6 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
 
 ---
 
-### My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinefer&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
----
-
 **Connect with me:**
 <p>
   <a href="https://github.com/rinefer" target="_blank">
