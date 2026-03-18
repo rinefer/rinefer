@@ -1,11 +1,6 @@
 
 I am a Python Developer focused on **Automation**, **Bot Development**, and **Data Science**.
 
----
-
-### Tech Stack
-
-**Languages:**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
