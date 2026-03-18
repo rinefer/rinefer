@@ -24,11 +24,3 @@ I am a Python Developer focused on **Automation**, **Bot Development**, and **Da
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rinefer&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Views Counter" />
-  </a>
-</p>
