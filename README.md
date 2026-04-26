@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.gif" alt="gothic" width="800"/>
+  <img src="banner1.gif" alt="gothic"/>
 </p>
 
 I am a Python Developer focused on **Automation**, **Bot Development**, and **Data Science**.
