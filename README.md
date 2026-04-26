@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/9MC6qw3NOc8AAAAC/doki-doki-literature-club-yuri.gif" alt="Yuri Banner" width="800"/>
+  <img src="https://pin.it/5ooEi4lLd" alt="gothic" width="800"/>
 </p>
 
 I am a Python Developer focused on **Automation**, **Bot Development**, and **Data Science**.
